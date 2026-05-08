@@ -1,0 +1,185 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/BubbleSort.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 603.3898 570 628.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/SelectionSort.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 577.8898 570 603.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/ClosestPair.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 552.3898 570 577.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/BruteForceStringMatch.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 526.8898 570 552.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/MergeSort.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 501.3898 570 526.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/QuickSort.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 475.8898 570 501.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/HeapSort.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 450.3898 570 475.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/InsertionSort.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 424.8898 570 450.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/HorspoolStringMatch.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 399.3898 570 424.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/Floyd.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 373.8898 570 399.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/Huffman.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 348.3898 570 373.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/NQueens.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 322.8898 570 348.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/VishwaaT27/DAA/blob/main/KnapsackBnB.java)
+>> /Border [ 0 0 0 ] /Rect [ 408 297.3898 570 322.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/PageMode /UseNone /Pages 21 0 R /Type /Catalog
+>>
+endobj
+20 0 obj
+<<
+/Author (VISHWAA T) /CreationDate (D:20260508191826+05'00') /Creator (anonymous) /Keywords () /ModDate (D:20260508191826+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (DAA GitHub Links) /Trapped /False
+>>
+endobj
+21 0 obj
+<<
+/Count 1 /Kids [ 18 0 R ] /Type /Pages
+>>
+endobj
+22 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1724
+>>
+stream
+Gau1/9iKe;&;KZOMEYU8<(33NBs]hC6:*848aP0Ej<BN_0:#!tVR$-s*SX-@/R\bAEhs,0]&2`nbrkSeOp'bDajo9_!AKtXk7\/"_;lN1M%!)'i-9:HMCXd7't7&!EVWSNBGDsJ@n9K<3L;do'_))a/+O3)q%kA"qt`:39^I*%h`$?s&uihC`.+D>^]&;!#a5^MP`-5"r1M!fTHD^3%d2A8PG1ENS.l\g1HHFIB/Y^r2NkrP0fHj&8+Wfr?CDHHnD]D*q",8\`lE&:a*^(u+Ph'&rA$OBT.]dO]HDA-9Dsu3Z^VTa_-rbV+.HC8eMS>lDlS,l\1JUYb:]hV>?(8?I"F"8p2EU77^3]B&HDRr`Q-rhJ`!J,.,[>_bs;Zi5cgP(@<Du.JNAS6a'PcJ?.l-XR)?GG9,6,;[nh2s<k%:.e"sC5<Yf/87(U(dEPsgc_(")UGno%.VLEghddi-Vfj^Pj?e98p?X?N@:!U<hiFr,=AbbZHa<\Ir?#LRMc,r-!fHu2.?<u"!Ed:$^=$j)`Y4g$7ajAjYP6K^QAX2rZ@\,4G3kr79'X774.ooS9"e0bG7-\nfA52-N.jQFDOR/U5=4WOS&rBqse)GhJ(O<R4(:1#G*i.3$je^l7EE+[UW=^nFrN5pY:20$TL@p"gT/o(r"hN)Q'$4*7hRg89Rp,Tn=jdYO>?E$m-bQ13/Q[/Vq+f0qdedm<Yt78WGE8+D=YP:c@S!*]K>\<%!sj`,$3j<L1"ObP%YBP"OY_I:=g]D/j*[Fo<u:bML:%Q/`]DSNDMq4*gP-0H'l2?3>Nq:S6O"^M4@OuiJc`q#JHQ^HR8?F`J]CXVAh0t6&<W`5e`=sV0!\Wn#=)to0L0G8n<GW7PHUp0Mm'M0JcUPG@%IEfO?imlL`h<W7SkKgg>GgbTu^@9!$/+H[37@Cfj^)q-%*lOe(\#NZNkI5"N%t%HKZnslj_5aj;)BBP6HRC0u5u+L1#T77Ld0:'o\SX9LOaCdKVdkMu:1f_Q+,#q3KVkqg)^[Xht,NDWiWgC_p_=m2Or(aE5OU!Rr8[ne<37L'SV^L^[-7Jc_&hNkAB4_8uCQ)D*hM2FQ^)_eaY.-Y-?F+CpF0"&J/jYP/`lb@XQ7Op/`,!Ppn;K`H]+`X;eM'o\JU5chkuR"PO(a=*<+iRN[5I*K"pIITTbL[ef:JYdInSLd3t/XE+>Z'9-IOVl;@IL%YV?iUdJ:r*,=,t9CIM([FYQ::Z#L;]UJ9j[;Y-&Ar>_a_hCXgG@bgPSbTc*l%H$\h=[$-?+V&/$0pbTJ0!_3bO_7$+TJBdb5RNg+XG=*qqfWk,aEW]>O3g]JsH$=TT`Gj$etC_qTKM;ISP?*[i\+Zc!g+;&]l^do[5TRr<uAoshU37(F[M3K4ZA]R(pl$g/d3[aOan`mSqTB*3o"HfIM(g'HJH\99S\&Dg8,8SaF.<:#c8e'_^"Ul?e#q?cMJXkA[I(^!gI-Z]YjeFCXpPd'R>[J:M=i+$Y[?l)Lej#*+CBsje`HLegV7-/W;Uf'4lh_(P.7Jn/'JPIO2lL+$"`g@AnX&0p\Gj#^iO+EeS:CD7OQU0W5MqO-l.r*-IlohX5O8Cm3g27F<&uk(2YMH\;/*>hA@c<fd-4p]H&<*K63N5fKS:fk4+XUA92$]-A$.MJ?EGq62rs)H1:qHe,B-L]QThn>`\VZDmpK*XPZN24LJB9,SE8T"_.dE6^k%.<!>CtB`W~>endstream
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000328 00000 n 
+0000000436 00000 n 
+0000000637 00000 n 
+0000000841 00000 n 
+0000001043 00000 n 
+0000001255 00000 n 
+0000001455 00000 n 
+0000001656 00000 n 
+0000001856 00000 n 
+0000002061 00000 n 
+0000002272 00000 n 
+0000002469 00000 n 
+0000002668 00000 n 
+0000002867 00000 n 
+0000003070 00000 n 
+0000003377 00000 n 
+0000003447 00000 n 
+0000003717 00000 n 
+0000003778 00000 n 
+trailer
+<<
+/ID 
+[<3ed34dda0b8674a72e3893b9fd980e91><3ed34dda0b8674a72e3893b9fd980e91>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 20 0 R
+/Root 19 0 R
+/Size 23
+>>
+startxref
+5594
+%%EOF
